@@ -52,7 +52,7 @@ I'm Tonye Waribo a DevOps | SRE Engineer and a lover of anything Quad(Copter)  o
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: waribo@gmail.com
+- :email: waribosamuel@gmail.com
 
 
 #### Profile Visits 
