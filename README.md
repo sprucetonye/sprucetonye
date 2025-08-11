@@ -1,6 +1,6 @@
 ## Hello my name is Tonye Waribo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Tonye Waribo a Technical Product Manager | Flutter Dev. and a lover of anything Quad(Copter)  on [Medium](https://medium.com/@tonyewaribo). I Spend most of time learning and practicing automation with Bash and Python, building mobile apps with flutter, contributing on open source projects has been a joyful thing for me, I will be embacking on a teach a kid a thing about tech from 1st of January 2024 by God's grace. 
+I'm Tonye Waribo a Software Engineer | Flutter Dev. and a lover of anything Quad(Copter)  on [Medium](https://medium.com/@tonyewaribo). I Spend most of my time learning and practicing automation with Bash and Python, building mobile apps with flutter, contributing on open source projects, which has been a joyful experience for me, I love God and I also teach kids in children's church. 
 
 :mailbox: Reach me out!
 
@@ -8,18 +8,18 @@ I'm Tonye Waribo a Technical Product Manager | Flutter Dev. and a lover of anyth
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @sprucedevops
+- 🔭 I’m currently open for remote opportunities
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I'm looking for a Product Manager [Flutter and Pendo ]  job
+- 🤔 I'm looking for a frontend developer or a flutter  job
 - 📫 How to reach me: waribosamuel@gmail.com.
 - 😄 Pronouns: Tonye, Waribo, Tonye Waribo.
-- ⚡ Fun fact: I love Drones and also pray alot.
+- ⚡ Fun fact: I love Jesus  and anything tech.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 <!-- ### Tutorials
 
@@ -51,7 +51,7 @@ I'm Tonye Waribo a Technical Product Manager | Flutter Dev. and a lover of anyth
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+<!-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: waribosamuel@gmail.com
 
 
@@ -67,7 +67,7 @@ I'm Tonye Waribo a Technical Product Manager | Flutter Dev. and a lover of anyth
 <br >
 
 <!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists! -->
-I would love to start sharing my DevOps journey from January 2024 using the #90Daysofdevops
+<!--I would love to start sharing my DevOps journey from January 2024 using the #90Daysofdevops
 
 <!-- #### What is CoderOne?
 
@@ -77,11 +77,15 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 <!--START_SECTION:waka-->
 ```text
-Python       15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Bash         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Dart         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Javascript    15 hrs 41 mins  ████████████████████▓░░░░   82.29 
+Flutter       15 hrs 41 mins  ████████████████████▓░░░░   82.29 
+Python        15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
+React         15 hrs 41 mins  ████████████████████▓░░░░   82.29
+Node          15 hrs 41 mins  ████████████████████▓░░░░   82.29 
+Bash         1 hr 50 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Markdown     1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Dart         2 mins           ████████████████████▓░░░░   00.25 % 
+YAML         2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 ░ 
@@ -89,10 +93,11 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Tonye Waribo's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+<!--</details>
 
-
+<!--
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+-->
